@@ -15,7 +15,9 @@ To make it achieve the desired functionality, you need to be familiar with the f
 If you bind to the `submit` event, you should consider using the
 [event.preventDefault() method][] provided by jQuery.
 
-### Part One
+### Workflow
+
+Fork this repository before working on the solution.
 
 It may seem obvious what you have to do, but just to make it extra clear what the expected behavior is:
 
@@ -38,6 +40,10 @@ If you are having trouble solving this problem, ask yourself the following quest
 - Is my code correctly bound to the appropriate event?  If not, how can I test for this?
 - Do I know how to retrieve the values from the form?
 - Am I correctly passing the user data into the function that modifies the page styles?
+
+### Finished?
+
+Create a PR back to this repository with your completed work. In your PR, include a summary of what was the most challenging part of this challenge.
 
 ## Resources
 
